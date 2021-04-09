@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning Nanodegree - Project 2
+# Deep Reinforcement Learning Nanodegree - Project 3
 
 This repository contains my submission for the third project of the DRL Nanodegree
 
